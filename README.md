@@ -8,8 +8,10 @@ In Added_stuff_patch_and_translation_guides.zip there is the patch to use the ve
 
 In addedFeaturesENGSourceCode.zip there is the source code for my version.
 # My added stuff version
-Things that i have added:
+Things that i have added that affect the mechanics:
 - Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
+
+Things that we have added that are just QOL changes:
 - Moves' power and accuracy are visible in battle.
 - Moves' power, accuracy and short description of their abilites are displayed when learning a new move.
 - Move to be learned also visible when learning new move.
