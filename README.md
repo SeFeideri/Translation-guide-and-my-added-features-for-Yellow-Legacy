@@ -20,7 +20,7 @@ Things that we have added that are just QOL changes:
 - In pokecenters there is a guy that tells your moves' accuracy, power and gives a detailed description of their abilities.
 - More characters, mostly scandinavian umlauts, also "+".
 - Custom characters indicating move's power and accuracy.
-- IN FINNISH VERSION ONLY: Added a character to indicate "enenmy" to save space on writing.
+- IN FINNISH VERSION ONLY: Added a character to indicate "enemy" to save space on writing.
 - Added a small wiki on some of the games machanics that are badly or never properly explained in the game. It includes for example explanation of the physical/special split and all type effectivenes interractions.
 - The wiki can be accessed from the various bookshelves that are in many of the homes or in oaks lab. It reveals info based on the ammount of badges you have, so the player wont get overwhelmed at the start of the game.
 - A couple of custom events with custom music and some new sprites made by us.
