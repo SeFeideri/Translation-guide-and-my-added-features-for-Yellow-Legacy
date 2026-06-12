@@ -1,5 +1,5 @@
 # Translation-guide-and-my-added-features-for-Yellow-Legacy
-This repo contains a translation guide from english of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. Also here is a version of that romhack with some additions that i have made.
+This repo contains a translation guide from english of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. Also here is a version of that romhack with some additions that me and my friend have made.
 # Translation guide
 In the Translation_guide_for_original_romhack_only.zip there is only the guide for translating the base Yellow Legacy game and some potentially usefull versions of the filkes in the source code. To get the source code of the original version of Yellow legacy, go to Yellow Legacy's official git below.
 - Yellow Legacy official git: https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy
