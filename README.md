@@ -21,6 +21,8 @@ Things that i have added:
 - A couple of custom events with custom music and some new sprites made by us.
 - A postgame battle with BILL where you get all 3 eeveelutioons at lvl 26 after you beat BILL. To activate this, make sure you have talked with the new guy in pokecenters :). Bill has 5 pokemon at mostly postgame gymleader levels. You can propalbly guess atleast 4 of them. NOTE! Bill's sprite is currently just a psychic with their levitating pokeballs removed and whose hair is bigger. We tried to make a propper sprite, but neither of us have never done pixel art so we might not be abel to.
 - Some easter eggs.
+# Using an old savefile from original Yellow Legacy
+Currently it is not recomended! As if you try to use a save from the originall Yellow legacy, the game either crashes or if it doesent, you get stuck in place. Only way you can move then is to use fly or teleport. Even after that, your flags get messed up and the gamne has sprites showing that shouldn't and vice versa. The Bill fight and move describers do work so if you jus need them, you can use this.
 # Finnish translation
 I have already made a Finnish translation of the romhack. You can find it here: https://github.com/SeFeideri/Finnish-Yellow-Legacy-translation
 # Yellow Legacy
